@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="entorno:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/entorno_jar</output-path>
+    <root id="archive" name="entorno.jar">
+      <element id="module-output" name="entorno" />
+    </root>
+  </artifact>
+</component>
